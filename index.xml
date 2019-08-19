@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.02" name="Warcry" indexUrl="https://github.com/abhorashchile/warcry/blob/master/" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.02" name="Warcry" indexUrl="https://github.com/abhorashchile/warcry/raw/master/" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warcry.gstz" dataType="gamesystem" dataId="8c32-b37e-2665-0b61" dataName="Warcry" dataBattleScribeVersion="2.02" dataRevision="3"/>
     <dataIndexEntry filePath="Bonesplitterz.catz" dataType="catalogue" dataId="bb81-bf24-1c62-053e" dataName="Bonesplitterz" dataBattleScribeVersion="2.02" dataRevision="3"/>
