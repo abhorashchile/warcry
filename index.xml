@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.02" name="Warcry" indexUrl="https://github.com/abhorashchile/warcry/blob/master/" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Warcry.gstz" dataType="gamesystem" dataId="8c32-b37e-2665-0b61" dataName="Warcry" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Bonesplitterz.catz" dataType="catalogue" dataId="bb81-bf24-1c62-053e" dataName="Bonesplitterz" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Stormcast_Eternals.catz" dataType="catalogue" dataId="fd7d-b94b-43cc-dc05" dataName="Stormcast Eternals" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Daughters_of_Khaine.catz" dataType="catalogue" dataId="3285-27ff-81e7-bf21" dataName="Daughters of Khaine" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Nighthaunt.catz" dataType="catalogue" dataId="ecba-d958-efc2-0de3" dataName="Nighthaunt" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Legions_of_Nagash.catz" dataType="catalogue" dataId="dce3-3392-295e-0768" dataName="Legions of Nagash" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Flesh_Eater_Courts.catz" dataType="catalogue" dataId="219d-3b05-b918-fedb" dataName="Flesh Eater Courts" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Iron_Golem.catz" dataType="catalogue" dataId="b60f-ad5a-9f9a-a612" dataName="Iron Golem" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Idoneth_Deepkin.catz" dataType="catalogue" dataId="040e-8e50-2115-c765" dataName="Idoneth Deepkin" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Ironjawz.catz" dataType="catalogue" dataId="5552-49e9-ddb2-1d96" dataName="Ironjawz" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Cypher_Lords.catz" dataType="catalogue" dataId="7614-ac47-e2c0-4fd0" dataName="Cypher Lords" dataBattleScribeVersion="2.02" dataRevision="3"/>
+    <dataIndexEntry filePath="Untamed_Beasts.catz" dataType="catalogue" dataId="8b7b-779f-189c-188c" dataName="Untamed Beasts" dataBattleScribeVersion="2.02" dataRevision="3"/>
+  </dataIndexEntries>
+</dataIndex>
